@@ -2,10 +2,10 @@
 
 ## Usage
 * Client Usage
-  - TriggerClientEvent('SHM-EnhancedNotifications:EnhancedNotifications', -1, "This is a succes notification.", 5000, "succes")
-  - TriggerClientEvent('SHM-EnhancedNotifications:EnhancedNotifications', -1, "This is a info notification.", 5000, "info")
-  - TriggerClientEvent('SHM-EnhancedNotifications:EnhancedNotifications', -1, "This is a warning notification.", 5000, "warning")
-  - TriggerClientEvent('SHM-EnhancedNotifications:EnhancedNotifications', -1, "This is a error notification.", 5000, "error")
+  - TriggerClientEvent('SHM-EnhancedNotifications:EnhancedNotifications', -1, `"This is a succes notification."`, 5000, "succes")
+  - TriggerClientEvent('SHM-EnhancedNotifications:EnhancedNotifications', -1, `"This is a info notification."`, 5000, "info")
+  - TriggerClientEvent('SHM-EnhancedNotifications:EnhancedNotifications', -1, `"This is a warning notification."`, 5000, "warning")
+  - TriggerClientEvent('SHM-EnhancedNotifications:EnhancedNotifications', -1, `"This is a error notification."`, 5000, "error")
 
 ## Warning 
 * When you download this file it will be called `SHM-EnhancedNotifications-main` remove the `-main` so its `SHM-EnhancedNotifications` 
